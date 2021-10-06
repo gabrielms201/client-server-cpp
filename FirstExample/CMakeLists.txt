@@ -3,7 +3,7 @@
 #
 cmake_minimum_required (VERSION 3.8)
 
-project("First_Example")
+project("FirstExample")
 # Add source to this project's executable.
 add_executable("${PROJECT_NAME}")
 # Boost Options
